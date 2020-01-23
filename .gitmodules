@@ -1,0 +1,4 @@
+[submodule "addons-ic"]
+	path = addons-ic
+	url = https://github.com/antoniocanovas/addons-ic
+	branch = master
